@@ -1,0 +1,5 @@
+_originals/
+_review_photos/
+.ipynb_checkpoints/
+__pycache__/
+out/

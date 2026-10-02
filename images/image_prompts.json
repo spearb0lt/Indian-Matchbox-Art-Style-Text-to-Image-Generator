@@ -1,0 +1,220 @@
+{
+ "55": [
+  {
+   "file": "55/55_swan_brand_seed1.jpg",
+   "prompt": "phlmx, a matchbox, a white swan swimming in front of a red sunburst, yellow background, headline 'SWAN BRAND'",
+   "seed": 1,
+   "size": "1152x896",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_white_swan_swimming_in_front_of_a_red_sun_s1.0_1152x896.png"
+  },
+  {
+   "file": "55/55_love_birds_seed4.jpg",
+   "prompt": "phlmx, a matchbox, two parrots on a branch under a crescent moon, red background, headline 'LOVE BIRDS'",
+   "seed": 4,
+   "size": "1216x832",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_two_parrots_on_a_branch_under_a_crescent_mo_s1.0_1216x832.png"
+  },
+  {
+   "file": "55/55_express_locomotive_seed2.jpg",
+   "prompt": "phlmx, a matchbox, a steam locomotive crossing a bridge, blue background, headline 'EXPRESS'",
+   "seed": 2,
+   "size": "832x1216",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_steam_locomotive_crossing_a_bridge_blue_b_s1.0_832x1216.png"
+  },
+  {
+   "file": "55/55_cock_brand_seed3.jpg",
+   "prompt": "phlmx, a matchbox, a red rooster crowing inside a yellow sunburst, headline 'COCK BRAND'",
+   "seed": 3,
+   "size": "1024x1024",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_red_rooster_crowing_inside_a_yellow_sunbu_s1.0_1024x1024.png"
+  },
+  {
+   "file": "55/55_deepa_oil_lamp_seed2.jpg",
+   "prompt": "phlmx, a matchbox, a woman in a green sari lighting a brass oil lamp, blue background, headline 'DEEPA'",
+   "seed": 2,
+   "size": "832x1216",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_woman_in_a_green_sari_lighting_a_brass_oi_s1.0_832x1216.png"
+  },
+  {
+   "file": "55/55_sailing_ship_seed3.jpg",
+   "prompt": "phlmx, a matchbox, a sailing ship on blue waves at sunset, headline 'SHIP'",
+   "seed": 3,
+   "size": "1344x768",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_sailing_ship_on_blue_waves_at_sunset_head_s1.0_1344x768.png"
+  },
+  {
+   "file": "55/55_mayur_peacock_seed4.jpg",
+   "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR', text 'Safety Matches'",
+   "seed": 4,
+   "size": "832x1216",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_peacock_with_a_fanned_tail_in_front_of_a__s1.0_832x1216.png"
+  },
+  {
+   "file": "55/55_elephant_fight_seed4.jpg",
+   "prompt": "phlmx, a matchbox, two blue elephants facing each other, yellow background, headline 'ELEPHANT FIGHT'",
+   "seed": 4,
+   "size": "1216x832",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_two_blue_elephants_facing_each_other_yellow_s1.0_1216x832.png"
+  },
+  {
+   "file": "55/55_gopuram_temple_seed4.jpg",
+   "prompt": "phlmx, a matchbox, a tall temple tower under a crescent moon, blue sky, headline 'GOPURAM'",
+   "seed": 4,
+   "size": "768x1344",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_tall_temple_tower_under_a_crescent_moon_b_s1.0_768x1344.png"
+  },
+  {
+   "file": "55/55_kamal_lotus_seed1.jpg",
+   "prompt": "phlmx, a matchbox, a big pink lotus flower with green leaves, yellow background, headline 'KAMAL'",
+   "seed": 1,
+   "size": "896x1152",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_big_pink_lotus_flower_with_green_leaves_y_s1.0_896x1152.png"
+  }
+ ],
+ "69": [
+  {
+   "file": "69/69_love_birds_seed4.jpg",
+   "prompt": "phlmx, a matchbox label, two parrots on a branch under a crescent moon, red background, headline 'LOVE BIRDS'",
+   "seed": 4,
+   "size": "1152x768",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_label_two_parrots_on_a_branch_under_a_crescent_moon_r_s0.9.png"
+  },
+  {
+   "file": "69/69_tiger_seed1.jpg",
+   "prompt": "phlmx, a matchbox label, a roaring tiger's head inside a yellow circle, red background, headline 'TIGER'",
+   "seed": 1,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_label_a_roaring_tiger_s_head_inside_a_yellow_circle_r_s0.9.png"
+  },
+  {
+   "file": "69/69_peace_man_and_dog_seed1.jpg",
+   "prompt": "phlmx, a matchbox, a man walking his dog in a park with green trees, blue background, headline 'PEACE', text 'Safety Matches'",
+   "seed": 1,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_a_man_walking_his_dog_in_a_park_with_green_trees_blue_s0.9.png"
+  },
+  {
+   "file": "69/69_mayur_peacock_seed3.jpg",
+   "prompt": "phlmx, a matchbox label, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR', text 'Safety Matches'",
+   "seed": 3,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_label_a_peacock_with_a_fanned_tail_in_front_of_a_red__s0.9.png"
+  },
+  {
+   "file": "69/69_pussy_cat_seed1.jpg",
+   "prompt": "phlmx, a matchbox, a cat drinking milk, blue background, headline 'PUSSY'",
+   "seed": 1,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_a_cat_drinking_milk_blue_background_headline_pussy__s0.9.png"
+  },
+  {
+   "file": "69/69_jumbo_elephant_seed4.jpg",
+   "prompt": "phlmx, a matchbox label, a cartoon elephant riding a bicycle, orange background, headline 'JUMBO'",
+   "seed": 4,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_label_a_cartoon_elephant_riding_a_bicycle_orange_back_s0.9.png"
+  },
+  {
+   "file": "69/69_deepa_oil_lamp_seed4.jpg",
+   "prompt": "phlmx, a matchbox label, a woman in a green sari lighting a brass oil lamp, blue background, headline 'DEEPA'",
+   "seed": 4,
+   "size": "768x1152",
+   "scale": 0.9,
+   "steps": 28,
+   "cfg": 5.0,
+   "source_grid": "phlmx_a_matchbox_label_a_woman_in_a_green_sari_lighting_a_brass_oil_la_s0.9.png"
+  }
+ ],
+ "compare": [
+  {
+   "file": "compare/compare_mayur_peacock.jpg",
+   "title": "MAYUR"
+  },
+  {
+   "file": "compare/compare_express_locomotive.jpg",
+   "title": "EXPRESS"
+  },
+  {
+   "file": "compare/compare_love_birds.jpg",
+   "title": "LOVE BIRDS"
+  },
+  {
+   "file": "compare/compare_jumbo_elephant.jpg",
+   "title": "JUMBO"
+  },
+  {
+   "file": "compare/compare_pussy_cat.jpg",
+   "title": "PUSSY"
+  }
+ ],
+ "55x": [
+  {
+   "stem": "jumbo_elephant",
+   "prompt": "phlmx, a matchbox, a cartoon elephant riding a bicycle, orange background, headline 'JUMBO'",
+   "seed": 2,
+   "size": "832x1216",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_cartoon_elephant_riding_a_bicycle_orange__s1.0_832x1216.png"
+  },
+  {
+   "stem": "pussy_cat",
+   "prompt": "phlmx, a matchbox, a cat drinking milk, blue background, headline 'PUSSY'",
+   "seed": 2,
+   "size": "832x1216",
+   "scale": 1.0,
+   "steps": 30,
+   "cfg": 6.0,
+   "source_grid": "phlmx_a_matchbox_a_cat_drinking_milk_blue_background_headlin_s1.0_832x1216.png"
+  }
+ ]
+}
