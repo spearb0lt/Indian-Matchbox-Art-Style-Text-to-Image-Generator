@@ -52,13 +52,15 @@ these are each model's typical output, not a single-variable experiment.
 
 <p align="center"><b>PUSSY</b><br><img src="images/compare/compare_pussy_cat.jpg" width="560" alt="PUSSY: SDXL LoRA left, SD3.5-medium LoRA right"></p>
 
-Left of each pair: SDXL LoRA (notebook 55). Right: SD3.5-medium LoRA (notebook 69).
+Left of each pair: SDXL LoRA (notebook 55). Right: SD3.5-medium LoRA (notebook 69). The SDXL image in
+the MAYUR pair comes from the earlier SDXL run of notebook 55 (trained on museum prints, weights not
+published, seed 478163327 at strength 0.8); the other four SDXL images come from the published SDXL LoRA.
 
 ### What differs, as seen in these pairs
 
 * **Lettering.** The SD3.5-medium LoRA spells the headline correctly in all five pairs (EXPRESS,
   JUMBO, LOVE BIRDS, MAYUR, PUSSY); its small secondary text is still often garbled. The SDXL LoRA
-  gets some headlines right and misspells others ("LOVE BRRDS", "SAFFETY MATCHES"), and fills the
+  gets some headlines right and misspells others ("LOVE BRRDS", "JJUMBO", "MAY UR"), and fills the
   label with more invented lines of pseudo-text.
 * **Colour and finish.** SD3.5-medium produces flat, saturated colour fields (pure reds, yellows
   and blues) with clean outlines, like a crisp reprint. SDXL produces a muted palette with

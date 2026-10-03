@@ -67,14 +67,14 @@
    "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
-   "file": "55/55_mayur_peacock_earlier_run_seed478163327.jpg",
-   "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR'",
-   "seed": 478163327,
+   "file": "55/55_mayur_peacock_earlier_run_seed4.jpg",
+   "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR', text 'Safety Matches'",
+   "seed": 4,
    "size": "832x1216",
-   "scale": 0.8,
+   "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_peacock_with_a_fanned_tail_in_front_of_a__s0.8_seed478163327_832x1216.png",
+   "source_grid": "phlmx_a_matchbox_a_peacock_with_a_fanned_tail_in_front_of_a_red_sunbur_s1.0.png",
    "lora": "earlier SDXL LoRA run trained on Cooper Hewitt museum prints (phlmx_style_sdxl_ep04, weights not published)"
   },
   {
@@ -193,7 +193,16 @@
  "compare": [
   {
    "file": "compare/compare_mayur_peacock.jpg",
-   "title": "MAYUR"
+   "title": "MAYUR",
+   "left": {
+    "lora": "earlier SDXL LoRA run trained on Cooper Hewitt museum prints (phlmx_style_sdxl_ep04, weights not published)",
+    "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR'",
+    "seed": 478163327,
+    "scale": 0.8,
+    "steps": 30,
+    "cfg": 6.0,
+    "size": "832x1216"
+   }
   },
   {
    "file": "compare/compare_express_locomotive.jpg",
