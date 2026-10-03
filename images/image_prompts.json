@@ -1,14 +1,15 @@
 {
  "55": [
   {
-   "file": "55/55_swan_brand_seed1.jpg",
+   "file": "55/55_swan_brand_earlier_run_seed1.jpg",
    "prompt": "phlmx, a matchbox, a white swan swimming in front of a red sunburst, yellow background, headline 'SWAN BRAND'",
    "seed": 1,
    "size": "1152x896",
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_white_swan_swimming_in_front_of_a_red_sun_s1.0_1152x896.png"
+   "source_grid": "phlmx_a_matchbox_a_white_swan_swimming_in_front_of_a_red_sunburst_yell_s1.0.png",
+   "lora": "earlier SDXL LoRA run trained on Cooper Hewitt museum prints (phlmx_style_sdxl_ep04, weights not published)"
   },
   {
    "file": "55/55_love_birds_seed4.jpg",
@@ -18,7 +19,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_two_parrots_on_a_branch_under_a_crescent_mo_s1.0_1216x832.png"
+   "source_grid": "phlmx_a_matchbox_two_parrots_on_a_branch_under_a_crescent_mo_s1.0_1216x832.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_express_locomotive_seed2.jpg",
@@ -28,7 +30,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_steam_locomotive_crossing_a_bridge_blue_b_s1.0_832x1216.png"
+   "source_grid": "phlmx_a_matchbox_a_steam_locomotive_crossing_a_bridge_blue_b_s1.0_832x1216.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_cock_brand_seed3.jpg",
@@ -38,7 +41,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_red_rooster_crowing_inside_a_yellow_sunbu_s1.0_1024x1024.png"
+   "source_grid": "phlmx_a_matchbox_a_red_rooster_crowing_inside_a_yellow_sunbu_s1.0_1024x1024.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_deepa_oil_lamp_seed2.jpg",
@@ -48,7 +52,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_woman_in_a_green_sari_lighting_a_brass_oi_s1.0_832x1216.png"
+   "source_grid": "phlmx_a_matchbox_a_woman_in_a_green_sari_lighting_a_brass_oi_s1.0_832x1216.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_sailing_ship_seed3.jpg",
@@ -58,17 +63,19 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_sailing_ship_on_blue_waves_at_sunset_head_s1.0_1344x768.png"
+   "source_grid": "phlmx_a_matchbox_a_sailing_ship_on_blue_waves_at_sunset_head_s1.0_1344x768.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
-   "file": "55/55_mayur_peacock_seed4.jpg",
-   "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR', text 'Safety Matches'",
-   "seed": 4,
+   "file": "55/55_mayur_peacock_earlier_run_seed478163327.jpg",
+   "prompt": "phlmx, a matchbox, a peacock with a fanned tail in front of a red sunburst, yellow background, headline 'MAYUR'",
+   "seed": 478163327,
    "size": "832x1216",
-   "scale": 1.0,
+   "scale": 0.8,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_peacock_with_a_fanned_tail_in_front_of_a__s1.0_832x1216.png"
+   "source_grid": "phlmx_a_matchbox_a_peacock_with_a_fanned_tail_in_front_of_a__s0.8_seed478163327_832x1216.png",
+   "lora": "earlier SDXL LoRA run trained on Cooper Hewitt museum prints (phlmx_style_sdxl_ep04, weights not published)"
   },
   {
    "file": "55/55_elephant_fight_seed4.jpg",
@@ -78,7 +85,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_two_blue_elephants_facing_each_other_yellow_s1.0_1216x832.png"
+   "source_grid": "phlmx_a_matchbox_two_blue_elephants_facing_each_other_yellow_s1.0_1216x832.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_gopuram_temple_seed4.jpg",
@@ -88,7 +96,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_tall_temple_tower_under_a_crescent_moon_b_s1.0_768x1344.png"
+   "source_grid": "phlmx_a_matchbox_a_tall_temple_tower_under_a_crescent_moon_b_s1.0_768x1344.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   },
   {
    "file": "55/55_kamal_lotus_seed1.jpg",
@@ -98,7 +107,8 @@
    "scale": 1.0,
    "steps": 30,
    "cfg": 6.0,
-   "source_grid": "phlmx_a_matchbox_a_big_pink_lotus_flower_with_green_leaves_y_s1.0_896x1152.png"
+   "source_grid": "phlmx_a_matchbox_a_big_pink_lotus_flower_with_green_leaves_y_s1.0_896x1152.png",
+   "lora": "published SDXL LoRA (sdxl/phlmx_style_sdxl_ep10)"
   }
  ],
  "69": [
@@ -110,7 +120,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_label_two_parrots_on_a_branch_under_a_crescent_moon_r_s0.9.png"
+   "source_grid": "phlmx_a_matchbox_label_two_parrots_on_a_branch_under_a_crescent_moon_r_s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_tiger_seed1.jpg",
@@ -120,7 +131,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_label_a_roaring_tiger_s_head_inside_a_yellow_circle_r_s0.9.png"
+   "source_grid": "phlmx_a_matchbox_label_a_roaring_tiger_s_head_inside_a_yellow_circle_r_s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_peace_man_and_dog_seed1.jpg",
@@ -130,7 +142,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_a_man_walking_his_dog_in_a_park_with_green_trees_blue_s0.9.png"
+   "source_grid": "phlmx_a_matchbox_a_man_walking_his_dog_in_a_park_with_green_trees_blue_s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_mayur_peacock_seed3.jpg",
@@ -140,7 +153,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_label_a_peacock_with_a_fanned_tail_in_front_of_a_red__s0.9.png"
+   "source_grid": "phlmx_a_matchbox_label_a_peacock_with_a_fanned_tail_in_front_of_a_red__s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_pussy_cat_seed1.jpg",
@@ -150,7 +164,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_a_cat_drinking_milk_blue_background_headline_pussy__s0.9.png"
+   "source_grid": "phlmx_a_matchbox_a_cat_drinking_milk_blue_background_headline_pussy__s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_jumbo_elephant_seed4.jpg",
@@ -160,7 +175,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_label_a_cartoon_elephant_riding_a_bicycle_orange_back_s0.9.png"
+   "source_grid": "phlmx_a_matchbox_label_a_cartoon_elephant_riding_a_bicycle_orange_back_s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   },
   {
    "file": "69/69_deepa_oil_lamp_seed4.jpg",
@@ -170,7 +186,8 @@
    "scale": 0.9,
    "steps": 28,
    "cfg": 5.0,
-   "source_grid": "phlmx_a_matchbox_label_a_woman_in_a_green_sari_lighting_a_brass_oil_la_s0.9.png"
+   "source_grid": "phlmx_a_matchbox_label_a_woman_in_a_green_sari_lighting_a_brass_oil_la_s0.9.png",
+   "lora": "published SD3.5-medium LoRA (sd3.5-medium/)"
   }
  ],
  "compare": [
