@@ -99,12 +99,13 @@ The causes behind the lettering gap, from most to least certain:
    their endings, where Florence-2 usually quotes the label's text, were cut off during training;
    some captions also kept leftover `<pad>` tokens. This is documented in notebook 55 §5.2.
 3. **The base models, before any fine-tuning.** Both notebooks generate a strength grid in which
-   LoRA scale 0.0 is the untouched base model (55 §13.2, 69 §17). For the same MAYUR peacock prompt,
-   base SD3.5-medium already spells "MAYUR" correctly in most seeds and already draws flat,
-   saturated colour; base SDXL writes "MAYUX" and paints a softer, more illustrative picture. So a
-   large part of the gap is the base model itself, and each LoRA moves its base model towards the
-   labels from a different starting point: SDXL's LoRA adds the red-and-yellow sunbursts, bands and
-   print texture; SD3.5-medium's LoRA mostly adjusts layout and motifs.
+   LoRA scale 0.0 is the untouched base model (55 §13.2, 69 §17). For the MAYUR peacock prompt, both
+   base models get the short headline roughly right (SDXL: "MAYUR", "MAYUX", "MAY/UR"; SD3.5-medium:
+   "MAYUR", "MAYUR", "MAYYUR"), so this grid shows no clear spelling gap between the base models; the
+   gap appears in the fine-tuned outputs. What already differs at scale 0.0 is the look: base
+   SD3.5-medium draws flat, saturated colour on a plain ground, base SDXL a softer, painted picture.
+   Each LoRA moves its base model towards the labels from that starting point: SDXL's LoRA adds the
+   sunbursts, bands and print texture; SD3.5-medium's LoRA mostly adjusts layout and motifs.
 
 The training objective (noise vs velocity prediction) is the conceptual difference notebook 69
 teaches, but these samples do not isolate its effect on quality: model, text encoders, captions
